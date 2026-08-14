@@ -33,7 +33,7 @@
             "last_commit": "2026-08-13T01:28:45Z",
             "owner": "apache",
             "repo": "tinkerpop",
-            "stars": 2143
+            "stars": 2142
           }
         },
         {
@@ -86,7 +86,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-07-31T09:10:34Z",
+            "last_commit": "2026-08-13T19:48:10Z",
             "owner": "pietermartin",
             "repo": "sqlg",
             "stars": 260
@@ -734,7 +734,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T12:09:40.682Z",
+    "last_updated": "2026-08-14T12:07:33.935Z",
     "original_repository": "mohataher/awesome-tinkerpop",
     "original_repository_sha": "2eb47b34fbac875b922e2c66adf85d3fba34a7a6",
     "enhanced_repository": "enhansome/enhansome-tinkerpop",
