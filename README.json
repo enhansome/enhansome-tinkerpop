@@ -19,7 +19,7 @@
             "last_commit": "2026-07-23T16:43:33Z",
             "owner": "JanusGraph",
             "repo": "janusgraph",
-            "stars": 5827
+            "stars": 5828
           }
         },
         {
@@ -734,7 +734,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T12:07:33.935Z",
+    "last_updated": "2026-08-15T11:44:22.552Z",
     "original_repository": "mohataher/awesome-tinkerpop",
     "original_repository_sha": "2eb47b34fbac875b922e2c66adf85d3fba34a7a6",
     "enhanced_repository": "enhansome/enhansome-tinkerpop",
