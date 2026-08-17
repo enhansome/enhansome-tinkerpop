@@ -23,7 +23,7 @@ A curated list of only awesome TinkerPop libraries on Github.
 
 #### <A NAME="tinkerpop3-implementations"></A>Implementations
 
-* [JanusGraph](https://github.com/JanusGraph/janusgraph) ⭐ 5,828 | 🐛 598 | 🌐 Java | 📅 2026-07-23 - JanusGraph: an open-source, distributed graph database <http://janusgraph.org>
+* [JanusGraph](https://github.com/JanusGraph/janusgraph) ⭐ 5,829 | 🐛 598 | 🌐 Java | 📅 2026-07-23 - JanusGraph: an open-source, distributed graph database <http://janusgraph.org>
 * [TinkerPop3 implementation](https://github.com/apache/tinkerpop) ⭐ 2,142 | 🐛 52 | 🌐 Java | 📅 2026-08-13 - Mirror of Apache TinkerPop.
 * [blazegraph](https://github.com/blazegraph/database) ⚠️ Archived - TinkerPop3 [implementation](https://github.com/blazegraph/tinkerpop3) ⚠️ Archived for Blaze Graph; a high performance graph database.
 * [JanusGraph for DynamoDB (Amazon)](https://github.com/awslabs/dynamodb-janusgraph-storage-backend) ⚠️ Archived - The Amazon DynamoDB storage backend for JanusGraph.
@@ -73,7 +73,7 @@ A curated list of only awesome TinkerPop libraries on Github.
 ##### Javascript
 
 * [gremlin-javascript](https://github.com/jbmusso/gremlin-javascript) ⭐ 215 | 🐛 27 | 🌐 JavaScript | 📅 2018-04-21 (js) - A Gremlin Server driver for JavaScript.
-* [ts-tinkerpop](https://github.com/RedSeal-co/ts-tinkerpop) ⭐ 54 | 🐛 2 | 🌐 TypeScript | 📅 2015-11-18 - Utilities for using TinkerPop3 via the node-java API in Typescript.
+* [ts-tinkerpop](https://github.com/RedSeal-co/ts-tinkerpop) ⭐ 53 | 🐛 2 | 🌐 TypeScript | 📅 2015-11-18 - Utilities for using TinkerPop3 via the node-java API in Typescript.
 
 ##### PHP
 
@@ -163,4 +163,4 @@ To the extent possible under law, [@mohataher](https://github.com/mohataher) has
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
