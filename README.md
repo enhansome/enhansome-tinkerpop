@@ -24,7 +24,7 @@ A curated list of only awesome TinkerPop libraries on Github.
 #### <A NAME="tinkerpop3-implementations"></A>Implementations
 
 * [JanusGraph](https://github.com/JanusGraph/janusgraph) ⭐ 5,829 | 🐛 598 | 🌐 Java | 📅 2026-07-23 - JanusGraph: an open-source, distributed graph database <http://janusgraph.org>
-* [TinkerPop3 implementation](https://github.com/apache/tinkerpop) ⭐ 2,142 | 🐛 52 | 🌐 Java | 📅 2026-08-13 - Mirror of Apache TinkerPop.
+* [TinkerPop3 implementation](https://github.com/apache/tinkerpop) ⭐ 2,143 | 🐛 43 | 🌐 Java | 📅 2026-08-18 - Mirror of Apache TinkerPop.
 * [blazegraph](https://github.com/blazegraph/database) ⚠️ Archived - TinkerPop3 [implementation](https://github.com/blazegraph/tinkerpop3) ⚠️ Archived for Blaze Graph; a high performance graph database.
 * [JanusGraph for DynamoDB (Amazon)](https://github.com/awslabs/dynamodb-janusgraph-storage-backend) ⚠️ Archived - The Amazon DynamoDB storage backend for JanusGraph.
 * [hgraphdb](https://github.com/rayokota/hgraphdb) ⭐ 264 | 🐛 12 | 🌐 Java | 📅 2026-04-29 - HBase as a TinkerPop Graph Database.
@@ -147,7 +147,7 @@ A curated list of only awesome TinkerPop libraries on Github.
 * [Gremlin Language Variants](http://tinkerpop.apache.org/docs/3.2.1-SNAPSHOT/tutorials/gremlin-language-variants/) - Learn how to embed Gremlin in a host programming language.
 * [SQL2Gremlin](http://sql2gremlin.com/) - Learn Gremlin using typical patterns found when querying data with SQL.
 * [Getting Started with Graph Databases](https://academy.datastax.com/demos/getting-started-graph-databases) - Compares relational databases to graph databases and SQL to Gremlin.
-* [Graph](https://github.com/krlawrence/graph) ⭐ 864 | 🐛 17 | 🌐 Ruby | 📅 2026-02-26 - Graph Databases, Gremlin and TinkerPop - A Tutorial.
+* [Graph](https://github.com/krlawrence/graph) ⭐ 865 | 🐛 17 | 🌐 Ruby | 📅 2026-02-26 - Graph Databases, Gremlin and TinkerPop - A Tutorial.
 
 ## <A NAME="contributing"></A>How to Contribute
 
@@ -163,4 +163,4 @@ To the extent possible under law, [@mohataher](https://github.com/mohataher) has
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
