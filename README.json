@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 30449481,
                 "language": "Java",
-                "last_commit": "2026-08-21T17:05:22Z",
+                "last_commit": "2026-08-22T18:09:36Z",
                 "owner": "apache",
                 "repo": "tinkerpop",
                 "stars": 2143
@@ -782,7 +782,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T11:45:35.422Z",
+    "last_updated": "2026-08-23T11:45:40.184Z",
     "original_repository": "mohataher/awesome-tinkerpop",
     "original_repository_id": 45543060,
     "original_repository_sha": "2eb47b34fbac875b922e2c66adf85d3fba34a7a6",
