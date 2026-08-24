@@ -95,12 +95,12 @@ A curated list of only awesome TinkerPop libraries on Github.
 
 ##### Scala
 
-* [Gremlin Scala](https://github.com/mpollmeier/gremlin-scala) ⭐ 478 | 🐛 34 | 🌐 Scala | 📅 2022-10-20 - Scala wrapper for Apache TinkerPop3 Graph DSL.
+* [Gremlin Scala](https://github.com/mpollmeier/gremlin-scala) ⭐ 477 | 🐛 34 | 🌐 Scala | 📅 2022-10-20 - Scala wrapper for Apache TinkerPop3 Graph DSL.
 * [blueprints-scala](https://github.com/anvie/blueprints-scala) ⭐ 76 | 🐛 4 | 🌐 Scala | 📅 2016-04-05 - Tinkerpop Blueprints Scala.
 
 #### <A NAME="qlang"></A>Query Languages
 
-* [gremlin-scala](https://github.com/mpollmeier/gremlin-scala) ⭐ 478 | 🐛 34 | 🌐 Scala | 📅 2022-10-20 - A Scala language wrapper for TinkerPop3.
+* [gremlin-scala](https://github.com/mpollmeier/gremlin-scala) ⭐ 477 | 🐛 34 | 🌐 Scala | 📅 2022-10-20 - A Scala language wrapper for TinkerPop3.
 * [Cypher for Gremlin](https://github.com/opencypher/cypher-for-gremlin) ⭐ 373 | 🐛 36 | 🌐 Java | 📅 2026-01-14 -  Cypher for Gremlin adds Cypher support to any Gremlin graph database.
 * [sql-gremlin](https://github.com/twilmes/sql-gremlin) ⭐ 74 | 🐛 12 | 🌐 Java | 📅 2023-06-14 - A SQL to Gremlin traversal compiler.
 * [sparql-gremlin](https://github.com/dkuppitz/sparql-gremlin) ⭐ 70 | 🐛 9 | 🌐 Java | 📅 2018-02-15 - A SPARQL to Gremlin traversal compiler.
@@ -163,4 +163,4 @@ To the extent possible under law, [@mohataher](https://github.com/mohataher) has
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
