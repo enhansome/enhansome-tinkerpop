@@ -285,6 +285,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "greskell-websocket",
+                  "description": "Haskell client for TinkerPop3 Gremlin Server.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 102480228,
+                    "language": "Haskell",
+                    "last_commit": "2026-05-25T06:58:29Z",
+                    "owner": "debug-ito",
+                    "repo": "greskell",
+                    "stars": 27
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Haskell"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "Ferma",
                   "description": "An ORM / OGM for the TinkerPop graph stack.",
                   "children": [],
@@ -369,6 +391,28 @@
               "description": null,
               "node_type": "group",
               "title": "Javascript"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "gremlin-php",
+                  "description": "gremlin-server php driver compatible with TinkerPop3. It will allow you to connect to gremlin-server and it's backends (Neo4J, Titan, etc.).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 32962323,
+                    "language": "PHP",
+                    "last_commit": "2023-04-19T20:08:31Z",
+                    "owner": "dmill-bz",
+                    "repo": "gremlin-php",
+                    "stars": 75
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "PHP"
             },
             {
               "children": [
@@ -466,6 +510,28 @@
               "description": null,
               "node_type": "group",
               "title": "Python"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "reactive-gremlin",
+                  "description": "(scala) - An Akka HTTP Websocket Connector.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 52498385,
+                    "language": "Scala",
+                    "last_commit": "2018-11-13T04:21:49Z",
+                    "owner": "coreyauger",
+                    "repo": "reactive-gremlin",
+                    "stars": 30
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Reactive"
             },
             {
               "children": [
@@ -782,7 +848,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T11:54:21.441Z",
+    "last_updated": "2026-08-24T14:33:13.563Z",
     "original_repository": "mohataher/awesome-tinkerpop",
     "original_repository_id": 45543060,
     "original_repository_sha": "2eb47b34fbac875b922e2c66adf85d3fba34a7a6",
