@@ -240,7 +240,7 @@
                     "archived": false,
                     "id": 165282008,
                     "language": "Go",
-                    "last_commit": "2024-05-27T04:36:27Z",
+                    "last_commit": "2026-08-24T21:03:15Z",
                     "owner": "northwesternmutual",
                     "repo": "grammes",
                     "stars": 126
@@ -848,7 +848,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:33:13.563Z",
+    "last_updated": "2026-08-25T06:24:32.372Z",
     "original_repository": "mohataher/awesome-tinkerpop",
     "original_repository_id": 45543060,
     "original_repository_sha": "2eb47b34fbac875b922e2c66adf85d3fba34a7a6",
