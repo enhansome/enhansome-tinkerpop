@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 30449481,
                 "language": "Java",
-                "last_commit": "2026-08-22T18:09:36Z",
+                "last_commit": "2026-08-26T01:36:58Z",
                 "owner": "apache",
                 "repo": "tinkerpop",
-                "stars": 2143
+                "stars": 2144
               }
             },
             {
@@ -384,7 +384,7 @@
                     "last_commit": "2015-11-18T21:42:38Z",
                     "owner": "RedSeal-co",
                     "repo": "ts-tinkerpop",
-                    "stars": 53
+                    "stars": 52
                   }
                 }
               ],
@@ -604,7 +604,7 @@
                 "last_commit": "2026-01-14T15:35:59Z",
                 "owner": "opencypher",
                 "repo": "cypher-for-gremlin",
-                "stars": 373
+                "stars": 374
               }
             },
             {
@@ -848,7 +848,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T11:54:49.979Z",
+    "last_updated": "2026-08-26T11:55:53.870Z",
     "original_repository": "mohataher/awesome-tinkerpop",
     "original_repository_id": 45543060,
     "original_repository_sha": "2eb47b34fbac875b922e2c66adf85d3fba34a7a6",

@@ -24,7 +24,7 @@ A curated list of only awesome TinkerPop libraries on Github.
 #### <A NAME="tinkerpop3-implementations"></A>Implementations
 
 * [JanusGraph](https://github.com/JanusGraph/janusgraph) ⭐ 5,829 | 🐛 598 | 🌐 Java | 📅 2026-08-18 - JanusGraph: an open-source, distributed graph database <http://janusgraph.org>
-* [TinkerPop3 implementation](https://github.com/apache/tinkerpop) ⭐ 2,143 | 🐛 28 | 🌐 Java | 📅 2026-08-22 - Mirror of Apache TinkerPop.
+* [TinkerPop3 implementation](https://github.com/apache/tinkerpop) ⭐ 2,144 | 🐛 28 | 🌐 Java | 📅 2026-08-26 - Mirror of Apache TinkerPop.
 * [blazegraph](https://github.com/blazegraph/database) ⚠️ Archived - TinkerPop3 [implementation](https://github.com/blazegraph/tinkerpop3) ⚠️ Archived for Blaze Graph; a high performance graph database.
 * [JanusGraph for DynamoDB (Amazon)](https://github.com/awslabs/dynamodb-janusgraph-storage-backend) ⚠️ Archived - The Amazon DynamoDB storage backend for JanusGraph.
 * [hgraphdb](https://github.com/rayokota/hgraphdb) ⭐ 264 | 🐛 12 | 🌐 Java | 📅 2026-04-29 - HBase as a TinkerPop Graph Database.
@@ -73,7 +73,7 @@ A curated list of only awesome TinkerPop libraries on Github.
 ##### Javascript
 
 * [gremlin-javascript](https://github.com/jbmusso/gremlin-javascript) ⭐ 215 | 🐛 27 | 🌐 JavaScript | 📅 2018-04-21 (js) - A Gremlin Server driver for JavaScript.
-* [ts-tinkerpop](https://github.com/RedSeal-co/ts-tinkerpop) ⭐ 53 | 🐛 2 | 🌐 TypeScript | 📅 2015-11-18 - Utilities for using TinkerPop3 via the node-java API in Typescript.
+* [ts-tinkerpop](https://github.com/RedSeal-co/ts-tinkerpop) ⭐ 52 | 🐛 2 | 🌐 TypeScript | 📅 2015-11-18 - Utilities for using TinkerPop3 via the node-java API in Typescript.
 
 ##### PHP
 
@@ -101,7 +101,7 @@ A curated list of only awesome TinkerPop libraries on Github.
 #### <A NAME="qlang"></A>Query Languages
 
 * [gremlin-scala](https://github.com/mpollmeier/gremlin-scala) ⭐ 477 | 🐛 34 | 🌐 Scala | 📅 2022-10-20 - A Scala language wrapper for TinkerPop3.
-* [Cypher for Gremlin](https://github.com/opencypher/cypher-for-gremlin) ⭐ 373 | 🐛 36 | 🌐 Java | 📅 2026-01-14 -  Cypher for Gremlin adds Cypher support to any Gremlin graph database.
+* [Cypher for Gremlin](https://github.com/opencypher/cypher-for-gremlin) ⭐ 374 | 🐛 36 | 🌐 Java | 📅 2026-01-14 -  Cypher for Gremlin adds Cypher support to any Gremlin graph database.
 * [sql-gremlin](https://github.com/twilmes/sql-gremlin) ⭐ 74 | 🐛 12 | 🌐 Java | 📅 2023-06-14 - A SQL to Gremlin traversal compiler.
 * [sparql-gremlin](https://github.com/dkuppitz/sparql-gremlin) ⭐ 70 | 🐛 9 | 🌐 Java | 📅 2018-02-15 - A SPARQL to Gremlin traversal compiler.
 * [gremlin-py](https://github.com/emehrkay/gremlinpy) ⭐ 55 | 🐛 0 | 🌐 Python | 📅 2017-07-30 - Write pure Python Gremlin that can be sent to Gremlin Server.
@@ -163,4 +163,4 @@ To the extent possible under law, [@mohataher](https://github.com/mohataher) has
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
