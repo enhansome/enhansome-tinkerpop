@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 30449481,
                 "language": "Java",
-                "last_commit": "2026-08-26T16:39:28Z",
+                "last_commit": "2026-08-27T20:33:41Z",
                 "owner": "apache",
                 "repo": "tinkerpop",
                 "stars": 2144
@@ -848,7 +848,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:06:28.780Z",
+    "last_updated": "2026-08-27T21:04:54.573Z",
     "original_repository_info": {
       "archived": false,
       "id": 45543060,
