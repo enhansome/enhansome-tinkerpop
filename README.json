@@ -18,7 +18,8 @@
                 "owner": "JanusGraph",
                 "repo": "janusgraph",
                 "stars": 5829
-              }
+              },
+              "first_seen": "2026-08-28T21:28:47.839Z"
             },
             {
               "node_type": "item",
@@ -29,11 +30,12 @@
                 "archived": false,
                 "id": 30449481,
                 "language": "Java",
-                "last_commit": "2026-08-27T20:33:41Z",
+                "last_commit": "2026-08-28T17:53:08Z",
                 "owner": "apache",
                 "repo": "tinkerpop",
                 "stars": 2144
-              }
+              },
+              "first_seen": "2026-08-28T21:28:47.839Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "blazegraph",
                 "repo": "database",
                 "stars": 989
-              }
+              },
+              "first_seen": "2026-08-28T21:28:47.839Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "amazon-archives",
                 "repo": "dynamodb-janusgraph-storage-backend",
                 "stars": 446
-              }
+              },
+              "first_seen": "2026-08-28T21:28:47.839Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "rayokota",
                 "repo": "hgraphdb",
                 "stars": 264
-              }
+              },
+              "first_seen": "2026-08-28T21:28:47.839Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "pietermartin",
                 "repo": "sqlg",
                 "stars": 260
-              }
+              },
+              "first_seen": "2026-08-28T21:28:47.839Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "jbmusso",
                 "repo": "gremlin-javascript",
                 "stars": 215
-              }
+              },
+              "first_seen": "2026-08-28T21:28:47.839Z"
             },
             {
               "node_type": "item",
@@ -123,7 +130,8 @@
                 "owner": "unipop-graph",
                 "repo": "unipop",
                 "stars": 213
-              }
+              },
+              "first_seen": "2026-08-28T21:28:47.839Z"
             },
             {
               "node_type": "item",
@@ -138,7 +146,8 @@
                 "owner": "orientechnologies",
                 "repo": "orientdb-gremlin",
                 "stars": 97
-              }
+              },
+              "first_seen": "2026-08-28T21:28:47.839Z"
             },
             {
               "node_type": "item",
@@ -153,7 +162,8 @@
                 "owner": "jbmusso",
                 "repo": "tinkergraph-js",
                 "stars": 73
-              }
+              },
+              "first_seen": "2026-08-28T21:28:47.839Z"
             },
             {
               "node_type": "item",
@@ -168,7 +178,8 @@
                 "owner": "rmagen",
                 "repo": "elastic-gremlin",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-28T21:28:47.839Z"
             },
             {
               "node_type": "item",
@@ -183,7 +194,8 @@
                 "owner": "PureSolTechnologies",
                 "repo": "DuctileDB",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T21:28:47.839Z"
             }
           ],
           "description": null,
@@ -207,7 +219,8 @@
                     "owner": "clojurewerkz",
                     "repo": "ogre",
                     "stars": 130
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:28:47.839Z"
                 },
                 {
                   "node_type": "item",
@@ -222,7 +235,8 @@
                     "owner": "l15k4",
                     "repo": "scalajs-gremlin-client",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:28:47.839Z"
                 }
               ],
               "description": null,
@@ -244,7 +258,8 @@
                     "owner": "northwesternmutual",
                     "repo": "grammes",
                     "stars": 126
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:28:47.839Z"
                 },
                 {
                   "node_type": "item",
@@ -259,7 +274,8 @@
                     "owner": "go-gremlin",
                     "repo": "gremlin",
                     "stars": 117
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:28:47.839Z"
                 },
                 {
                   "node_type": "item",
@@ -274,7 +290,8 @@
                     "owner": "qasaur",
                     "repo": "gremgo",
                     "stars": 97
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:28:47.839Z"
                 }
               ],
               "description": null,
@@ -296,7 +313,8 @@
                     "owner": "debug-ito",
                     "repo": "greskell",
                     "stars": 27
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:28:47.839Z"
                 }
               ],
               "description": null,
@@ -318,7 +336,8 @@
                     "owner": "Syncleus",
                     "repo": "Ferma",
                     "stars": 142
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:28:47.839Z"
                 },
                 {
                   "node_type": "item",
@@ -333,7 +352,8 @@
                     "owner": "neo4j-contrib",
                     "repo": "neo4j-tinkerpop-api",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:28:47.839Z"
                 },
                 {
                   "node_type": "item",
@@ -348,7 +368,8 @@
                     "owner": "SteelBridgeLabs",
                     "repo": "neo4j-gremlin-bolt",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:28:47.839Z"
                 }
               ],
               "description": null,
@@ -370,7 +391,8 @@
                     "owner": "jbmusso",
                     "repo": "gremlin-javascript",
                     "stars": 215
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:28:47.839Z"
                 },
                 {
                   "node_type": "item",
@@ -385,7 +407,8 @@
                     "owner": "RedSeal-co",
                     "repo": "ts-tinkerpop",
                     "stars": 52
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:28:47.839Z"
                 }
               ],
               "description": null,
@@ -407,7 +430,8 @@
                     "owner": "dmill-bz",
                     "repo": "gremlin-php",
                     "stars": 75
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:28:47.839Z"
                 }
               ],
               "description": null,
@@ -429,7 +453,8 @@
                     "owner": "davebshow",
                     "repo": "goblin",
                     "stars": 90
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:28:47.839Z"
                 },
                 {
                   "node_type": "item",
@@ -444,7 +469,8 @@
                     "owner": "davebshow",
                     "repo": "goblin",
                     "stars": 90
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:28:47.839Z"
                 },
                 {
                   "node_type": "item",
@@ -459,7 +485,8 @@
                     "owner": "davebshow",
                     "repo": "aiogremlin",
                     "stars": 43
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:28:47.839Z"
                 },
                 {
                   "node_type": "item",
@@ -474,7 +501,8 @@
                     "owner": "platinummonkey",
                     "repo": "mogwai",
                     "stars": 36
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:28:47.839Z"
                 },
                 {
                   "node_type": "item",
@@ -489,7 +517,8 @@
                     "owner": "davebshow",
                     "repo": "gremlinclient",
                     "stars": 28
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:28:47.839Z"
                 },
                 {
                   "node_type": "item",
@@ -504,7 +533,8 @@
                     "owner": "windj007",
                     "repo": "python-gremlin-rest",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:28:47.839Z"
                 }
               ],
               "description": null,
@@ -526,7 +556,8 @@
                     "owner": "coreyauger",
                     "repo": "reactive-gremlin",
                     "stars": 30
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:28:47.839Z"
                 }
               ],
               "description": null,
@@ -548,7 +579,8 @@
                     "owner": "mpollmeier",
                     "repo": "gremlin-scala",
                     "stars": 477
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:28:47.839Z"
                 },
                 {
                   "node_type": "item",
@@ -563,7 +595,8 @@
                     "owner": "anvie",
                     "repo": "blueprints-scala",
                     "stars": 76
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:28:47.839Z"
                 }
               ],
               "description": null,
@@ -590,7 +623,8 @@
                 "owner": "mpollmeier",
                 "repo": "gremlin-scala",
                 "stars": 477
-              }
+              },
+              "first_seen": "2026-08-28T21:28:47.839Z"
             },
             {
               "node_type": "item",
@@ -605,7 +639,8 @@
                 "owner": "opencypher",
                 "repo": "cypher-for-gremlin",
                 "stars": 374
-              }
+              },
+              "first_seen": "2026-08-28T21:28:47.839Z"
             },
             {
               "node_type": "item",
@@ -620,7 +655,8 @@
                 "owner": "twilmes",
                 "repo": "sql-gremlin",
                 "stars": 74
-              }
+              },
+              "first_seen": "2026-08-28T21:28:47.839Z"
             },
             {
               "node_type": "item",
@@ -635,7 +671,8 @@
                 "owner": "dkuppitz",
                 "repo": "sparql-gremlin",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-28T21:28:47.839Z"
             },
             {
               "node_type": "item",
@@ -650,7 +687,8 @@
                 "owner": "emehrkay",
                 "repo": "gremlinpy",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-28T21:28:47.839Z"
             },
             {
               "node_type": "item",
@@ -665,7 +703,8 @@
                 "owner": "bayofmany",
                 "repo": "peapod",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-28T21:28:47.839Z"
             },
             {
               "node_type": "item",
@@ -680,7 +719,8 @@
                 "owner": "davebshow",
                 "repo": "ipython-gremlin",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T21:28:47.839Z"
             },
             {
               "node_type": "item",
@@ -695,7 +735,8 @@
                 "owner": "debug-ito",
                 "repo": "greskell",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T21:28:47.839Z"
             },
             {
               "node_type": "item",
@@ -710,7 +751,8 @@
                 "owner": "jbmusso",
                 "repo": "gremlin-template-string",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T21:28:47.839Z"
             }
           ],
           "description": null,
@@ -736,7 +778,8 @@
             "owner": "Syncleus",
             "repo": "Ferma",
             "stars": 142
-          }
+          },
+          "first_seen": "2026-08-28T21:28:47.839Z"
         },
         {
           "node_type": "item",
@@ -751,7 +794,8 @@
             "owner": "tinkerpop",
             "repo": "frames",
             "stars": 140
-          }
+          },
+          "first_seen": "2026-08-28T21:28:47.839Z"
         },
         {
           "node_type": "item",
@@ -766,7 +810,8 @@
             "owner": "anvie",
             "repo": "blueprints-scala",
             "stars": 76
-          }
+          },
+          "first_seen": "2026-08-28T21:28:47.839Z"
         },
         {
           "node_type": "item",
@@ -781,7 +826,8 @@
             "owner": "gjrwebber",
             "repo": "spring-data-gremlin",
             "stars": 71
-          }
+          },
+          "first_seen": "2026-08-28T21:28:47.839Z"
         },
         {
           "node_type": "item",
@@ -796,7 +842,8 @@
             "owner": "clojurewerkz",
             "repo": "archimedes",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T21:28:47.839Z"
         },
         {
           "node_type": "item",
@@ -811,7 +858,8 @@
             "owner": "platinummonkey",
             "repo": "mogwai",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T21:28:47.839Z"
         },
         {
           "node_type": "item",
@@ -826,7 +874,8 @@
             "owner": "JHUAPL",
             "repo": "AccumuloGraph",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T21:28:47.839Z"
         },
         {
           "node_type": "item",
@@ -841,14 +890,15 @@
             "owner": "Loupi",
             "repo": "Frontenac",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T21:28:47.839Z"
         }
       ],
       "title": "TinkerPop 2 Libraries"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T21:04:54.573Z",
+    "last_updated": "2026-08-28T21:28:47.839Z",
     "original_repository_info": {
       "archived": false,
       "id": 45543060,
