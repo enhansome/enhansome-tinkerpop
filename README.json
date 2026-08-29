@@ -12,12 +12,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JanusGraph: an open-source, distributed graph database",
+                "homepage": "https://janusgraph.org",
                 "id": 77385607,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-18T22:22:05Z",
+                "open_issues": 598,
                 "owner": "JanusGraph",
                 "repo": "janusgraph",
-                "stars": 5829
+                "stars": 5829,
+                "topics": [
+                  "bigtable",
+                  "cassandra",
+                  "elasticsearch",
+                  "graph",
+                  "graph-database",
+                  "graphdb",
+                  "gremlin",
+                  "hbase",
+                  "solr",
+                  "tinkerpop"
+                ]
               },
               "first_seen": "2026-08-28T21:28:47.839Z"
             },
@@ -28,12 +44,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Apache TinkerPop - a graph computing framework",
+                "homepage": "https://tinkerpop.apache.org/",
                 "id": 30449481,
                 "language": "Java",
-                "last_commit": "2026-08-28T17:53:08Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T23:42:45Z",
+                "open_issues": 28,
                 "owner": "apache",
                 "repo": "tinkerpop",
-                "stars": 2144
+                "stars": 2144,
+                "topics": [
+                  "apache",
+                  "graph",
+                  "graph-database",
+                  "graphdb",
+                  "gremlin",
+                  "gremlin-server",
+                  "tinkerpop"
+                ]
               },
               "first_seen": "2026-08-28T21:28:47.839Z"
             },
@@ -44,12 +73,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Blazegraph High Performance Graph Database",
+                "homepage": null,
                 "id": 48451041,
                 "language": "Java",
+                "license": "GPL-2.0",
                 "last_commit": "2023-04-16T22:22:56Z",
+                "open_issues": 166,
                 "owner": "blazegraph",
                 "repo": "database",
-                "stars": 989
+                "stars": 989,
+                "topics": [
+                  "blazegraph",
+                  "graph-database",
+                  "rdf",
+                  "sparql",
+                  "tinkerpop"
+                ]
               },
               "first_seen": "2026-08-28T21:28:47.839Z"
             },
@@ -60,12 +100,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "The Amazon DynamoDB Storage Backend for JanusGraph",
+                "homepage": null,
                 "id": 41064139,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2021-08-30T17:36:09Z",
+                "open_issues": 54,
                 "owner": "amazon-archives",
                 "repo": "dynamodb-janusgraph-storage-backend",
-                "stars": 446
+                "stars": 446,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:47.839Z"
             },
@@ -76,12 +121,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HBase as a TinkerPop Graph Database",
+                "homepage": null,
                 "id": 73235061,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-29T20:42:49Z",
+                "open_issues": 12,
                 "owner": "rayokota",
                 "repo": "hgraphdb",
-                "stars": 264
+                "stars": 264,
+                "topics": [
+                  "graph-database",
+                  "hbase",
+                  "tinkerpop"
+                ]
               },
               "first_seen": "2026-08-28T21:28:47.839Z"
             },
@@ -92,12 +146,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TinkerPop graph over sql",
+                "homepage": null,
                 "id": 21758708,
                 "language": "HTML",
-                "last_commit": "2026-08-13T19:48:10Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T22:42:56Z",
+                "open_issues": 26,
                 "owner": "pietermartin",
                 "repo": "sqlg",
-                "stars": 260
+                "stars": 260,
+                "topics": [
+                  "java",
+                  "postgresql",
+                  "sqlg",
+                  "tinkerpop"
+                ]
               },
               "first_seen": "2026-08-28T21:28:47.839Z"
             },
@@ -108,12 +172,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JavaScript tools for graph processing in Node.js and the browser inspired by the Apache TinkerPop API",
+                "homepage": null,
                 "id": 21466447,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-04-21T14:03:08Z",
+                "open_issues": 27,
                 "owner": "jbmusso",
                 "repo": "gremlin-javascript",
-                "stars": 215
+                "stars": 215,
+                "topics": [
+                  "graph-database",
+                  "graphdb",
+                  "gremlin",
+                  "gremlin-driver",
+                  "gremlin-server",
+                  "tinkerpop"
+                ]
               },
               "first_seen": "2026-08-28T21:28:47.839Z"
             },
@@ -124,12 +200,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Data Integration Graph",
+                "homepage": null,
                 "id": 43837063,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-02T15:08:38Z",
+                "open_issues": 29,
                 "owner": "unipop-graph",
                 "repo": "unipop",
-                "stars": 213
+                "stars": 213,
+                "topics": [
+                  "federation",
+                  "graph",
+                  "gremlin",
+                  "tinkerpop",
+                  "virtualization"
+                ]
               },
               "first_seen": "2026-08-28T21:28:47.839Z"
             },
@@ -140,12 +227,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TinkerPop3 Graph Structure Implementation for OrientDB",
+                "homepage": null,
                 "id": 37631091,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-20T14:38:51Z",
+                "open_issues": 43,
                 "owner": "orientechnologies",
                 "repo": "orientdb-gremlin",
-                "stars": 97
+                "stars": 97,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:47.839Z"
             },
@@ -156,12 +248,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A pure JavaScript implementation of TinkerPop's TinkerGraph in-memory graph database",
+                "homepage": null,
                 "id": 25030024,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2016-03-28T15:34:15Z",
+                "open_issues": 2,
                 "owner": "jbmusso",
                 "repo": "tinkergraph-js",
-                "stars": 73
+                "stars": 73,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:47.839Z"
             },
@@ -172,12 +269,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TinkerPop 3 implementation on Elasticsearch backend",
+                "homepage": null,
                 "id": 31286576,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2015-10-26T22:19:47Z",
+                "open_issues": 22,
                 "owner": "rmagen",
                 "repo": "elastic-gremlin",
-                "stars": 70
+                "stars": 70,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:47.839Z"
             },
@@ -188,12 +290,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ductile DB is a graph database based on Hadoop/HBase which provides a vast set of features.",
+                "homepage": null,
                 "id": 45098765,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2018-01-03T21:24:38Z",
+                "open_issues": 0,
                 "owner": "PureSolTechnologies",
                 "repo": "DuctileDB",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:47.839Z"
             }
@@ -213,12 +320,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Clojure library for querying Apache TinkerPop graphs",
+                    "homepage": "http://ogre.clojurewerkz.org/",
                     "id": 8730405,
                     "language": "Clojure",
+                    "license": null,
                     "last_commit": "2021-09-01T16:04:42Z",
+                    "open_issues": 5,
                     "owner": "clojurewerkz",
                     "repo": "ogre",
-                    "stars": 130
+                    "stars": 130,
+                    "topics": [
+                      "clojure",
+                      "graph",
+                      "graph-algorithms",
+                      "gremlin",
+                      "tinkerpop",
+                      "tinkerpop-graphs"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:28:47.839Z"
                 },
@@ -229,12 +348,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Gremlin-Server client with ad-hoc extensible, reactive, typeclass based API allowing for using turing complete graph traversal language gremlin to query graph databases from browser",
+                    "homepage": null,
                     "id": 27134276,
                     "language": "Scala",
+                    "license": "MIT",
                     "last_commit": "2020-01-01T07:40:32Z",
+                    "open_issues": 0,
                     "owner": "l15k4",
                     "repo": "scalajs-gremlin-client",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": [
+                      "legacy-code"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:28:47.839Z"
                 }
@@ -252,12 +378,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Go package built to communicate with Apache TinkerPop™ Graph computing framework using Gremlin; a graph traversal language used by graph databases such as JanusGraph®, MS Cosmos DB, AWS Neptune, and DataStax® Enterprise Graph.",
+                    "homepage": null,
                     "id": 165282008,
                     "language": "Go",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-24T21:03:15Z",
+                    "open_issues": 26,
                     "owner": "northwesternmutual",
                     "repo": "grammes",
-                    "stars": 126
+                    "stars": 126,
+                    "topics": [
+                      "client",
+                      "database",
+                      "go",
+                      "golang",
+                      "graph",
+                      "graph-database",
+                      "gremlin",
+                      "package",
+                      "tinkerpop"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:28:47.839Z"
                 },
@@ -268,12 +409,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Go graph database client for TinkerPop3 Gremlin Server",
+                    "homepage": null,
                     "id": 42353900,
                     "language": "Go",
+                    "license": "MIT",
                     "last_commit": "2020-02-05T23:27:16Z",
+                    "open_issues": 8,
                     "owner": "go-gremlin",
                     "repo": "gremlin",
-                    "stars": 117
+                    "stars": 117,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:28:47.839Z"
                 },
@@ -284,12 +430,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A fast, efficient, and easy-to-use Go client for the Apache TinkerPop graph database stack",
+                    "homepage": null,
                     "id": 55102862,
                     "language": "Go",
+                    "license": "MIT",
                     "last_commit": "2019-11-09T20:05:29Z",
+                    "open_issues": 15,
                     "owner": "qasaur",
                     "repo": "gremgo",
-                    "stars": 97
+                    "stars": 97,
+                    "topics": [
+                      "golang",
+                      "tinkerpop"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:28:47.839Z"
                 }
@@ -307,12 +461,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Haskell binding for Gremlin graph query language",
+                    "homepage": "https://hackage.haskell.org/package/greskell",
                     "id": 102480228,
                     "language": "Haskell",
+                    "license": null,
                     "last_commit": "2026-05-25T06:58:29Z",
+                    "open_issues": 3,
                     "owner": "debug-ito",
                     "repo": "greskell",
-                    "stars": 27
+                    "stars": 27,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:28:47.839Z"
                 }
@@ -330,12 +489,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An ORM / OGM for the TinkerPop graph stack.",
+                    "homepage": "http://syncleus.com/Ferma",
                     "id": 26981748,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2022-05-20T20:45:52Z",
+                    "open_issues": 15,
                     "owner": "Syncleus",
                     "repo": "Ferma",
-                    "stars": 142
+                    "stars": 142,
+                    "topics": [
+                      "engine",
+                      "graph-database",
+                      "gremlin",
+                      "java",
+                      "ogm",
+                      "orm",
+                      "tinkerpop",
+                      "tinkerpop-frames",
+                      "tinkerpop2",
+                      "tinkerpop3"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:28:47.839Z"
                 },
@@ -346,12 +521,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Apache Licensed Neo4j API for Tinkerpop3",
+                    "homepage": null,
                     "id": 32899668,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2019-01-16T11:43:04Z",
+                    "open_issues": 0,
                     "owner": "neo4j-contrib",
                     "repo": "neo4j-tinkerpop-api",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:28:47.839Z"
                 },
@@ -362,12 +542,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 61564889,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-12-05T22:18:15Z",
+                    "open_issues": 10,
                     "owner": "SteelBridgeLabs",
                     "repo": "neo4j-gremlin-bolt",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": [
+                      "bolt",
+                      "graph",
+                      "gremlin",
+                      "neo4j",
+                      "tinkerpop"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:28:47.839Z"
                 }
@@ -385,12 +576,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "JavaScript tools for graph processing in Node.js and the browser inspired by the Apache TinkerPop API",
+                    "homepage": null,
                     "id": 21466447,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2018-04-21T14:03:08Z",
+                    "open_issues": 27,
                     "owner": "jbmusso",
                     "repo": "gremlin-javascript",
-                    "stars": 215
+                    "stars": 215,
+                    "topics": [
+                      "graph-database",
+                      "graphdb",
+                      "gremlin",
+                      "gremlin-driver",
+                      "gremlin-server",
+                      "tinkerpop"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:28:47.839Z"
                 },
@@ -401,12 +604,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Utilities for using Tinkerpop3 via the node-java API in Typescript",
+                    "homepage": null,
                     "id": 34549498,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2015-11-18T21:42:38Z",
+                    "open_issues": 2,
                     "owner": "RedSeal-co",
                     "repo": "ts-tinkerpop",
-                    "stars": 52
+                    "stars": 52,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:28:47.839Z"
                 }
@@ -424,12 +632,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "gremlin-server php driver compatible with TinkerPop3. It will allow you to connect to gremlin-server and it's backends (Neo4J, Titan, etc.)",
+                    "homepage": null,
                     "id": 32962323,
                     "language": "PHP",
+                    "license": "NOASSERTION",
                     "last_commit": "2023-04-19T20:08:31Z",
+                    "open_issues": 6,
                     "owner": "dmill-bz",
                     "repo": "gremlin-php",
-                    "stars": 75
+                    "stars": 75,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:28:47.839Z"
                 }
@@ -447,12 +660,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Python 3.5 rewrite of the TinkerPop 3 OGM Goblin",
+                    "homepage": null,
                     "id": 62410834,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2018-11-06T13:10:31Z",
+                    "open_issues": 17,
                     "owner": "davebshow",
                     "repo": "goblin",
-                    "stars": 90
+                    "stars": 90,
+                    "topics": [
+                      "gremlin",
+                      "gremlin-server",
+                      "tinkerpop"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:28:47.839Z"
                 },
@@ -463,12 +685,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Python 3.5 rewrite of the TinkerPop 3 OGM Goblin",
+                    "homepage": null,
                     "id": 62410834,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2018-11-06T13:10:31Z",
+                    "open_issues": 17,
                     "owner": "davebshow",
                     "repo": "goblin",
-                    "stars": 90
+                    "stars": 90,
+                    "topics": [
+                      "gremlin",
+                      "gremlin-server",
+                      "tinkerpop"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:28:47.839Z"
                 },
@@ -479,12 +710,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": "http://aiogremlin.readthedocs.org/en/latest/",
                     "id": 34677498,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2019-12-27T05:57:51Z",
+                    "open_issues": 6,
                     "owner": "davebshow",
                     "repo": "aiogremlin",
-                    "stars": 43
+                    "stars": 43,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:28:47.839Z"
                 },
@@ -495,12 +731,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Tinkerpop Graph Database Library for Python",
+                    "homepage": null,
                     "id": 42494448,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2016-03-07T01:49:15Z",
+                    "open_issues": 0,
                     "owner": "platinummonkey",
                     "repo": "mogwai",
-                    "stars": 36
+                    "stars": 36,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:28:47.839Z"
                 },
@@ -511,12 +752,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Python client for TP3 Gremlin Server for Tornado, Trollius, or Asyncio",
+                    "homepage": null,
                     "id": 44060650,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2016-06-15T23:12:02Z",
+                    "open_issues": 3,
                     "owner": "davebshow",
                     "repo": "gremlinclient",
-                    "stars": 28
+                    "stars": 28,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:28:47.839Z"
                 },
@@ -527,12 +773,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A very simple JSON-REST client to TinkerPop 3 Gremlin Server",
+                    "homepage": null,
                     "id": 43504074,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2016-12-09T18:02:10Z",
+                    "open_issues": 0,
                     "owner": "windj007",
                     "repo": "python-gremlin-rest",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:28:47.839Z"
                 }
@@ -550,12 +801,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "akka http gremlin 3 websocket connector",
+                    "homepage": null,
                     "id": 52498385,
                     "language": "Scala",
+                    "license": "MIT",
                     "last_commit": "2018-11-13T04:21:49Z",
+                    "open_issues": 0,
                     "owner": "coreyauger",
                     "repo": "reactive-gremlin",
-                    "stars": 30
+                    "stars": 30,
+                    "topics": [
+                      "akka-streams",
+                      "backpressure",
+                      "bulk-loader",
+                      "graph-database",
+                      "scala",
+                      "titan"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:28:47.839Z"
                 }
@@ -573,12 +836,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[unmaintained] Scala wrapper for Apache TinkerPop 3 Graph DSL",
+                    "homepage": null,
                     "id": 7516189,
                     "language": "Scala",
+                    "license": "Apache-2.0",
                     "last_commit": "2022-10-20T09:54:59Z",
+                    "open_issues": 34,
                     "owner": "mpollmeier",
                     "repo": "gremlin-scala",
-                    "stars": 477
+                    "stars": 477,
+                    "topics": [
+                      "graph",
+                      "graph-database",
+                      "graphdb",
+                      "gremlin",
+                      "scala",
+                      "type-safe"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:28:47.839Z"
                 },
@@ -589,12 +864,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Tinkerpop Blueprints Scala ",
+                    "homepage": null,
                     "id": 7376124,
                     "language": "Scala",
+                    "license": "NOASSERTION",
                     "last_commit": "2016-04-05T18:40:59Z",
+                    "open_issues": 4,
                     "owner": "anvie",
                     "repo": "blueprints-scala",
-                    "stars": 76
+                    "stars": 76,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:28:47.839Z"
                 }
@@ -617,12 +897,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[unmaintained] Scala wrapper for Apache TinkerPop 3 Graph DSL",
+                "homepage": null,
                 "id": 7516189,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2022-10-20T09:54:59Z",
+                "open_issues": 34,
                 "owner": "mpollmeier",
                 "repo": "gremlin-scala",
-                "stars": 477
+                "stars": 477,
+                "topics": [
+                  "graph",
+                  "graph-database",
+                  "graphdb",
+                  "gremlin",
+                  "scala",
+                  "type-safe"
+                ]
               },
               "first_seen": "2026-08-28T21:28:47.839Z"
             },
@@ -633,12 +925,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cypher for Gremlin adds Cypher support to any Gremlin graph database.",
+                "homepage": null,
                 "id": 118768968,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-01-14T15:35:59Z",
+                "open_issues": 36,
                 "owner": "opencypher",
                 "repo": "cypher-for-gremlin",
-                "stars": 374
+                "stars": 374,
+                "topics": [
+                  "cypher",
+                  "graph",
+                  "gremlin",
+                  "tinkerpop",
+                  "tinkerpop3"
+                ]
               },
               "first_seen": "2026-08-28T21:28:47.839Z"
             },
@@ -649,12 +952,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Provides a SQL interface to your TinkerPop enabled graph db",
+                "homepage": null,
                 "id": 45724262,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2023-06-14T23:40:33Z",
+                "open_issues": 12,
                 "owner": "twilmes",
                 "repo": "sql-gremlin",
-                "stars": 74
+                "stars": 74,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:47.839Z"
             },
@@ -665,12 +973,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 42194876,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2018-02-15T16:48:18Z",
+                "open_issues": 9,
                 "owner": "dkuppitz",
                 "repo": "sparql-gremlin",
-                "stars": 70
+                "stars": 70,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:47.839Z"
             },
@@ -681,12 +994,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python to Gremlin Graph Abstraction Layer",
+                "homepage": null,
                 "id": 23982669,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2017-07-30T13:47:54Z",
+                "open_issues": 0,
                 "owner": "emehrkay",
                 "repo": "gremlinpy",
-                "stars": 55
+                "stars": 55,
+                "topics": [
+                  "gremlin-instance",
+                  "gremlin-script",
+                  "gremlin-server",
+                  "gremlin-string",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T21:28:47.839Z"
             },
@@ -697,12 +1021,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A new object-graph-wrapper for the Tinkerpop 3 graph stack.",
+                "homepage": null,
                 "id": 28963937,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2021-03-31T18:59:43Z",
+                "open_issues": 5,
                 "owner": "bayofmany",
                 "repo": "peapod",
-                "stars": 42
+                "stars": 42,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:47.839Z"
             },
@@ -713,12 +1042,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "http://ipython-gremlin.readthedocs.org/en/latest/",
                 "id": 35732010,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2022-01-21T19:35:22Z",
+                "open_issues": 9,
                 "owner": "davebshow",
                 "repo": "ipython-gremlin",
-                "stars": 41
+                "stars": 41,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:47.839Z"
             },
@@ -729,12 +1063,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Haskell binding for Gremlin graph query language",
+                "homepage": "https://hackage.haskell.org/package/greskell",
                 "id": 102480228,
                 "language": "Haskell",
+                "license": null,
                 "last_commit": "2026-05-25T06:58:29Z",
+                "open_issues": 3,
                 "owner": "debug-ito",
                 "repo": "greskell",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:47.839Z"
             },
@@ -745,12 +1084,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generate Gremlin scripts with bound parameters using ES6 template strings",
+                "homepage": null,
                 "id": 34864764,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-02-26T23:26:33Z",
+                "open_issues": 0,
                 "owner": "jbmusso",
                 "repo": "gremlin-template-string",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:28:47.839Z"
             }
@@ -772,12 +1116,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An ORM / OGM for the TinkerPop graph stack.",
+            "homepage": "http://syncleus.com/Ferma",
             "id": 26981748,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2022-05-20T20:45:52Z",
+            "open_issues": 15,
             "owner": "Syncleus",
             "repo": "Ferma",
-            "stars": 142
+            "stars": 142,
+            "topics": [
+              "engine",
+              "graph-database",
+              "gremlin",
+              "java",
+              "ogm",
+              "orm",
+              "tinkerpop",
+              "tinkerpop-frames",
+              "tinkerpop2",
+              "tinkerpop3"
+            ]
           },
           "first_seen": "2026-08-28T21:28:47.839Z"
         },
@@ -788,12 +1148,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Object to Graph Framework  (no longer active - see Apache TinkerPop)",
+            "homepage": "http://tinkerpop.apache.org/",
             "id": 1413446,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2021-08-18T08:56:51Z",
+            "open_issues": 27,
             "owner": "tinkerpop",
             "repo": "frames",
-            "stars": 140
+            "stars": 140,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:28:47.839Z"
         },
@@ -804,12 +1169,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tinkerpop Blueprints Scala ",
+            "homepage": null,
             "id": 7376124,
             "language": "Scala",
+            "license": "NOASSERTION",
             "last_commit": "2016-04-05T18:40:59Z",
+            "open_issues": 4,
             "owner": "anvie",
             "repo": "blueprints-scala",
-            "stars": 76
+            "stars": 76,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:28:47.839Z"
         },
@@ -820,12 +1190,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Spring data gremlin makes it easier to implement Graph based repositories. This module extends Spring Data to allow support for potentially any Graph database that implements the Tinkerpop Blueprints 2.x API.",
+            "homepage": null,
             "id": 38870542,
             "language": "Java",
+            "license": null,
             "last_commit": "2018-10-06T15:53:17Z",
+            "open_issues": 33,
             "owner": "gjrwebber",
             "repo": "spring-data-gremlin",
-            "stars": 71
+            "stars": 71,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:28:47.839Z"
         },
@@ -836,12 +1211,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Clojure library for Blueprints (part of the Tinkerpop graph stack). ",
+            "homepage": null,
             "id": 8783215,
             "language": "Clojure",
+            "license": null,
             "last_commit": "2022-09-06T14:29:15Z",
+            "open_issues": 3,
             "owner": "clojurewerkz",
             "repo": "archimedes",
-            "stars": 38
+            "stars": 38,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:28:47.839Z"
         },
@@ -852,12 +1232,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Tinkerpop Graph Database Library for Python",
+            "homepage": null,
             "id": 42494448,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2016-03-07T01:49:15Z",
+            "open_issues": 0,
             "owner": "platinummonkey",
             "repo": "mogwai",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:28:47.839Z"
         },
@@ -868,12 +1253,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An implementation of TinkerPop Blueprints using Accumulo",
+            "homepage": null,
             "id": 20488962,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2016-03-13T01:10:08Z",
+            "open_issues": 21,
             "owner": "JHUAPL",
             "repo": "AccumuloGraph",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:28:47.839Z"
         },
@@ -884,12 +1274,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A .NET port of the Tinkerpop Stack",
+            "homepage": null,
             "id": 9484296,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2019-03-17T01:37:21Z",
+            "open_issues": 3,
             "owner": "Loupi",
             "repo": "Frontenac",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:28:47.839Z"
         }
@@ -898,15 +1293,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:28:47.839Z",
+    "last_updated": "2026-08-29T04:52:37.210Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of useful libraries for Apache TinkerPop3 and Tinkerpop2",
+      "homepage": null,
       "id": 45543060,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2021-06-29T16:53:21Z",
+      "open_issues": 3,
       "owner": "mohataher",
       "repo": "awesome-tinkerpop",
-      "stars": 191
+      "stars": 191,
+      "topics": [
+        "apache-tinkerpop",
+        "awesome",
+        "awesome-list",
+        "list",
+        "tinkerpop",
+        "tinkerpop-libraries",
+        "tinkerpop2",
+        "tinkerpop3"
+      ]
     },
     "original_repository_sha": "2eb47b34fbac875b922e2c66adf85d3fba34a7a6",
     "enhanced_repository": "enhansome/enhansome-tinkerpop",
