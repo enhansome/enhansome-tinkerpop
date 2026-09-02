@@ -24,14 +24,14 @@ A curated list of only awesome TinkerPop libraries on Github.
 #### <A NAME="tinkerpop3-implementations"></A>Implementations
 
 * [JanusGraph](https://github.com/JanusGraph/janusgraph) ⭐ 5,831 | 🐛 598 | 🌐 Java | 📅 2026-08-18 - JanusGraph: an open-source, distributed graph database <http://janusgraph.org>
-* [TinkerPop3 implementation](https://github.com/apache/tinkerpop) ⭐ 2,144 | 🐛 30 | 🌐 Java | 📅 2026-09-01 - Mirror of Apache TinkerPop.
+* [TinkerPop3 implementation](https://github.com/apache/tinkerpop) ⭐ 2,144 | 🐛 31 | 🌐 Java | 📅 2026-09-02 - Mirror of Apache TinkerPop.
 * [blazegraph](https://github.com/blazegraph/database) ⚠️ Archived - TinkerPop3 [implementation](https://github.com/blazegraph/tinkerpop3) ⚠️ Archived for Blaze Graph; a high performance graph database.
 * [JanusGraph for DynamoDB (Amazon)](https://github.com/awslabs/dynamodb-janusgraph-storage-backend) ⚠️ Archived - The Amazon DynamoDB storage backend for JanusGraph.
 * [hgraphdb](https://github.com/rayokota/hgraphdb) ⭐ 264 | 🐛 12 | 🌐 Java | 📅 2026-04-29 - HBase as a TinkerPop Graph Database.
 * [sqlg](https://github.com/pietermartin/sqlg) ⭐ 260 | 🐛 26 | 🌐 HTML | 📅 2026-08-28 - Sqlg is a implementation of TinkerPop3 on a RDBMS.
 * [gremlin-javascript](https://github.com/jbmusso/gremlin-javascript) ⭐ 215 | 🐛 27 | 🌐 JavaScript | 📅 2018-04-21 - JavaScript graph database client for TinkerPop3 Gremlin Server.
 * [Unipop](https://github.com/rmagen/unipop) ⭐ 213 | 🐛 29 | 🌐 Java | 📅 2026-08-02 - OLTP Elasticsearch and JDBC backed graph.
-* [orientdb-gremlin](https://github.com/orientechnologies/orientdb-gremlin) ⭐ 97 | 🐛 43 | 🌐 Java | 📅 2026-07-20 - TinkerPop3 Graph Structure Implementation for OrientDB.
+* [orientdb-gremlin](https://github.com/orientechnologies/orientdb-gremlin) ⭐ 97 | 🐛 43 | 🌐 Java | 📅 2026-09-02 - TinkerPop3 Graph Structure Implementation for OrientDB.
 * [tinkergraph-js](https://github.com/jbmusso/tinkergraph-js) ⭐ 73 | 🐛 2 | 🌐 JavaScript | 📅 2016-03-28 - A pure JavaScript implementation of TinkerPop's TinkerGraph in-memory graph database.
 * [Elastic Gremlin](https://github.com/rmagen/elastic-gremlin) ⭐ 70 | 🐛 22 | 🌐 Java | 📅 2015-10-26 - TinkerPop3 implementation on Elasticsearch backend.
 * [DuctileDB](https://github.com/PureSolTechnologies/DuctileDB) ⭐ 15 | 🐛 0 | 🌐 Java | 📅 2018-01-03 - Ductile DB is a graph database based on Hadoop/HBase which provides a vast set of features.
@@ -101,7 +101,7 @@ A curated list of only awesome TinkerPop libraries on Github.
 #### <A NAME="qlang"></A>Query Languages
 
 * [gremlin-scala](https://github.com/mpollmeier/gremlin-scala) ⭐ 477 | 🐛 34 | 🌐 Scala | 📅 2022-10-20 - A Scala language wrapper for TinkerPop3.
-* [Cypher for Gremlin](https://github.com/opencypher/cypher-for-gremlin) ⭐ 374 | 🐛 36 | 🌐 Java | 📅 2026-01-14 -  Cypher for Gremlin adds Cypher support to any Gremlin graph database.
+* [Cypher for Gremlin](https://github.com/opencypher/cypher-for-gremlin) ⭐ 375 | 🐛 36 | 🌐 Java | 📅 2026-01-14 -  Cypher for Gremlin adds Cypher support to any Gremlin graph database.
 * [sql-gremlin](https://github.com/twilmes/sql-gremlin) ⭐ 74 | 🐛 12 | 🌐 Java | 📅 2023-06-14 - A SQL to Gremlin traversal compiler.
 * [sparql-gremlin](https://github.com/dkuppitz/sparql-gremlin) ⭐ 70 | 🐛 9 | 🌐 Java | 📅 2018-02-15 - A SPARQL to Gremlin traversal compiler.
 * [gremlin-py](https://github.com/emehrkay/gremlinpy) ⭐ 55 | 🐛 0 | 🌐 Python | 📅 2017-07-30 - Write pure Python Gremlin that can be sent to Gremlin Server.
@@ -163,4 +163,4 @@ To the extent possible under law, [@mohataher](https://github.com/mohataher) has
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._

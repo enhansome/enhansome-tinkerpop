@@ -49,8 +49,8 @@
                 "id": 30449481,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-01T14:26:43Z",
-                "open_issues": 30,
+                "last_commit": "2026-09-02T04:28:35Z",
+                "open_issues": 31,
                 "owner": "apache",
                 "repo": "tinkerpop",
                 "stars": 2144,
@@ -232,7 +232,7 @@
                 "id": 37631091,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-07-20T14:38:51Z",
+                "last_commit": "2026-09-02T10:29:38Z",
                 "open_issues": 43,
                 "owner": "orientechnologies",
                 "repo": "orientdb-gremlin",
@@ -934,7 +934,7 @@
                 "open_issues": 36,
                 "owner": "opencypher",
                 "repo": "cypher-for-gremlin",
-                "stars": 374,
+                "stars": 375,
                 "topics": [
                   "cypher",
                   "graph",
@@ -1293,7 +1293,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T15:30:48.043Z",
+    "last_updated": "2026-09-02T15:12:24.276Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of useful libraries for Apache TinkerPop3 and Tinkerpop2",
