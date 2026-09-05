@@ -147,7 +147,7 @@ A curated list of only awesome TinkerPop libraries on Github.
 * [Gremlin Language Variants](http://tinkerpop.apache.org/docs/3.2.1-SNAPSHOT/tutorials/gremlin-language-variants/) - Learn how to embed Gremlin in a host programming language.
 * [SQL2Gremlin](http://sql2gremlin.com/) - Learn Gremlin using typical patterns found when querying data with SQL.
 * [Getting Started with Graph Databases](https://academy.datastax.com/demos/getting-started-graph-databases) - Compares relational databases to graph databases and SQL to Gremlin.
-* [Graph](https://github.com/krlawrence/graph) ⭐ 865 | 🐛 17 | 🌐 Ruby | 📅 2026-08-27 - Graph Databases, Gremlin and TinkerPop - A Tutorial.
+* [Graph](https://github.com/krlawrence/graph) ⭐ 865 | 🐛 17 | 🌐 Ruby | 📅 2026-09-04 - Graph Databases, Gremlin and TinkerPop - A Tutorial.
 
 ## <A NAME="contributing"></A>How to Contribute
 
@@ -163,4 +163,4 @@ To the extent possible under law, [@mohataher](https://github.com/mohataher) has
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
