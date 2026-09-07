@@ -130,7 +130,7 @@
                 "open_issues": 12,
                 "owner": "rayokota",
                 "repo": "hgraphdb",
-                "stars": 264,
+                "stars": 263,
                 "topics": [
                   "graph-database",
                   "hbase",
@@ -1293,7 +1293,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T14:20:01.222Z",
+    "last_updated": "2026-09-07T16:35:46.919Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of useful libraries for Apache TinkerPop3 and Tinkerpop2",
