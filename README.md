@@ -23,7 +23,7 @@ A curated list of only awesome TinkerPop libraries on Github.
 
 #### <A NAME="tinkerpop3-implementations"></A>Implementations
 
-* [JanusGraph](https://github.com/JanusGraph/janusgraph) ⭐ 5,833 | 🐛 598 | 🌐 Java | 📅 2026-08-18 - JanusGraph: an open-source, distributed graph database <http://janusgraph.org>
+* [JanusGraph](https://github.com/JanusGraph/janusgraph) ⭐ 5,835 | 🐛 598 | 🌐 Java | 📅 2026-08-18 - JanusGraph: an open-source, distributed graph database <http://janusgraph.org>
 * [TinkerPop3 implementation](https://github.com/apache/tinkerpop) ⭐ 2,144 | 🐛 31 | 🌐 Java | 📅 2026-09-04 - Mirror of Apache TinkerPop.
 * [blazegraph](https://github.com/blazegraph/database) ⚠️ Archived - TinkerPop3 [implementation](https://github.com/blazegraph/tinkerpop3) ⚠️ Archived for Blaze Graph; a high performance graph database.
 * [JanusGraph for DynamoDB (Amazon)](https://github.com/awslabs/dynamodb-janusgraph-storage-backend) ⚠️ Archived - The Amazon DynamoDB storage backend for JanusGraph.
@@ -147,7 +147,7 @@ A curated list of only awesome TinkerPop libraries on Github.
 * [Gremlin Language Variants](http://tinkerpop.apache.org/docs/3.2.1-SNAPSHOT/tutorials/gremlin-language-variants/) - Learn how to embed Gremlin in a host programming language.
 * [SQL2Gremlin](http://sql2gremlin.com/) - Learn Gremlin using typical patterns found when querying data with SQL.
 * [Getting Started with Graph Databases](https://academy.datastax.com/demos/getting-started-graph-databases) - Compares relational databases to graph databases and SQL to Gremlin.
-* [Graph](https://github.com/krlawrence/graph) ⭐ 865 | 🐛 17 | 🌐 Ruby | 📅 2026-09-04 - Graph Databases, Gremlin and TinkerPop - A Tutorial.
+* [Graph](https://github.com/krlawrence/graph) ⭐ 865 | 🐛 17 | 🌐 Ruby | 📅 2026-09-08 - Graph Databases, Gremlin and TinkerPop - A Tutorial.
 
 ## <A NAME="contributing"></A>How to Contribute
 
@@ -163,4 +163,4 @@ To the extent possible under law, [@mohataher](https://github.com/mohataher) has
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
