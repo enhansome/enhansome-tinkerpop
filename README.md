@@ -23,8 +23,8 @@ A curated list of only awesome TinkerPop libraries on Github.
 
 #### <A NAME="tinkerpop3-implementations"></A>Implementations
 
-* [JanusGraph](https://github.com/JanusGraph/janusgraph) ⭐ 5,841 | 🐛 592 | 🌐 Java | 📅 2026-09-23 - JanusGraph: an open-source, distributed graph database <http://janusgraph.org>
-* [TinkerPop3 implementation](https://github.com/apache/tinkerpop) ⭐ 2,146 | 🐛 34 | 🌐 Java | 📅 2026-09-18 - Mirror of Apache TinkerPop.
+* [JanusGraph](https://github.com/JanusGraph/janusgraph) ⭐ 5,841 | 🐛 586 | 🌐 Java | 📅 2026-09-24 - JanusGraph: an open-source, distributed graph database <http://janusgraph.org>
+* [TinkerPop3 implementation](https://github.com/apache/tinkerpop) ⭐ 2,146 | 🐛 35 | 🌐 Java | 📅 2026-09-24 - Mirror of Apache TinkerPop.
 * [blazegraph](https://github.com/blazegraph/database) ⚠️ Archived - TinkerPop3 [implementation](https://github.com/blazegraph/tinkerpop3) ⚠️ Archived for Blaze Graph; a high performance graph database.
 * [JanusGraph for DynamoDB (Amazon)](https://github.com/awslabs/dynamodb-janusgraph-storage-backend) ⚠️ Archived - The Amazon DynamoDB storage backend for JanusGraph.
 * [hgraphdb](https://github.com/rayokota/hgraphdb) ⭐ 263 | 🐛 12 | 🌐 Java | 📅 2026-04-29 - HBase as a TinkerPop Graph Database.
@@ -55,7 +55,7 @@ A curated list of only awesome TinkerPop libraries on Github.
 
 ##### Go
 
-* [grammes](https://github.com/northwesternmutual/grammes) ⭐ 126 | 🐛 26 | 🌐 Go | 📅 2026-08-24 - A Go package built to communicate with Apache TinkerPop™ Graph computing framework using Gremlin.
+* [grammes](https://github.com/northwesternmutual/grammes) ⭐ 127 | 🐛 26 | 🌐 Go | 📅 2026-08-24 - A Go package built to communicate with Apache TinkerPop™ Graph computing framework using Gremlin.
 * [go-gremlin](https://github.com/go-gremlin/gremlin) ⭐ 117 | 🐛 8 | 🌐 Go | 📅 2020-02-05 - Go graph database client for TinkerPop3 Gremlin Server.
 * [Gremgo](https://github.com/qasaur/gremgo) ⚠️ Archived - A fast, efficient, and easy-to-use Go client for the TinkerPop graph database stack.
 
@@ -163,4 +163,4 @@ To the extent possible under law, [@mohataher](https://github.com/mohataher) has
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
