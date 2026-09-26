@@ -23,8 +23,8 @@ A curated list of only awesome TinkerPop libraries on Github.
 
 #### <A NAME="tinkerpop3-implementations"></A>Implementations
 
-* [JanusGraph](https://github.com/JanusGraph/janusgraph) ⭐ 5,841 | 🐛 590 | 🌐 Java | 📅 2026-09-25 - JanusGraph: an open-source, distributed graph database <http://janusgraph.org>
-* [TinkerPop3 implementation](https://github.com/apache/tinkerpop) ⭐ 2,146 | 🐛 37 | 🌐 Java | 📅 2026-09-25 - Mirror of Apache TinkerPop.
+* [JanusGraph](https://github.com/JanusGraph/janusgraph) ⭐ 5,841 | 🐛 586 | 🌐 Java | 📅 2026-09-26 - JanusGraph: an open-source, distributed graph database <http://janusgraph.org>
+* [TinkerPop3 implementation](https://github.com/apache/tinkerpop) ⭐ 2,146 | 🐛 37 | 🌐 Java | 📅 2026-09-26 - Mirror of Apache TinkerPop.
 * [blazegraph](https://github.com/blazegraph/database) ⚠️ Archived - TinkerPop3 [implementation](https://github.com/blazegraph/tinkerpop3) ⚠️ Archived for Blaze Graph; a high performance graph database.
 * [JanusGraph for DynamoDB (Amazon)](https://github.com/awslabs/dynamodb-janusgraph-storage-backend) ⚠️ Archived - The Amazon DynamoDB storage backend for JanusGraph.
 * [hgraphdb](https://github.com/rayokota/hgraphdb) ⭐ 263 | 🐛 12 | 🌐 Java | 📅 2026-04-29 - HBase as a TinkerPop Graph Database.
@@ -96,7 +96,7 @@ A curated list of only awesome TinkerPop libraries on Github.
 ##### Scala
 
 * [Gremlin Scala](https://github.com/mpollmeier/gremlin-scala) ⭐ 477 | 🐛 34 | 🌐 Scala | 📅 2022-10-20 - Scala wrapper for Apache TinkerPop3 Graph DSL.
-* [blueprints-scala](https://github.com/anvie/blueprints-scala) ⭐ 76 | 🐛 4 | 🌐 Scala | 📅 2016-04-05 - Tinkerpop Blueprints Scala.
+* [blueprints-scala](https://github.com/anvie/blueprints-scala) ⭐ 75 | 🐛 4 | 🌐 Scala | 📅 2016-04-05 - Tinkerpop Blueprints Scala.
 
 #### <A NAME="qlang"></A>Query Languages
 
@@ -115,7 +115,7 @@ A curated list of only awesome TinkerPop libraries on Github.
 
 * [Ferma](https://github.com/Syncleus/Ferma) ⭐ 142 | 🐛 15 | 🌐 Java | 📅 2022-05-20 - An ORM / OGM for the TinkerPop graph stack.
 * [Frames](https://github.com/tinkerpop/frames) ⭐ 140 | 🐛 27 | 🌐 Java | 📅 2021-08-18 - An Object to Graph Framework.
-* [blueprints-scala](https://github.com/anvie/blueprints-scala) ⭐ 76 | 🐛 4 | 🌐 Scala | 📅 2016-04-05 - TinkerPop Blueprints Scala.
+* [blueprints-scala](https://github.com/anvie/blueprints-scala) ⭐ 75 | 🐛 4 | 🌐 Scala | 📅 2016-04-05 - TinkerPop Blueprints Scala.
 * [spring-data-gremlin](https://github.com/gjrwebber/spring-data-gremlin) ⭐ 71 | 🐛 33 | 🌐 Java | 📅 2018-10-06 - Spring data gremlin makes it easier to implement Graph based repositories. This module extends Spring Data to allow support for potentially any Graph database that implements the TinkerPop Blueprints 2.x API.
 * [Archimedes](https://github.com/clojurewerkz/archimedes) ⭐ 38 | 🐛 3 | 🌐 Clojure | 📅 2022-09-06 - Clojure library for Blueprints (part of the TinkerPop graph stack).
 * [Mogwai](https://github.com/platinummonkey/mogwai) ⚠️ Archived - TinkerPop 2 Graph Database Library for Python.
@@ -163,4 +163,4 @@ To the extent possible under law, [@mohataher](https://github.com/mohataher) has
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
