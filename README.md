@@ -32,7 +32,7 @@ A curated list of only awesome TinkerPop libraries on Github.
 * [gremlin-javascript](https://github.com/jbmusso/gremlin-javascript) ⭐ 215 | 🐛 27 | 🌐 JavaScript | 📅 2018-04-21 - JavaScript graph database client for TinkerPop3 Gremlin Server.
 * [Unipop](https://github.com/rmagen/unipop) ⭐ 213 | 🐛 29 | 🌐 Java | 📅 2026-08-02 - OLTP Elasticsearch and JDBC backed graph.
 * [orientdb-gremlin](https://github.com/orientechnologies/orientdb-gremlin) ⭐ 97 | 🐛 43 | 🌐 Java | 📅 2026-09-02 - TinkerPop3 Graph Structure Implementation for OrientDB.
-* [tinkergraph-js](https://github.com/jbmusso/tinkergraph-js) ⭐ 73 | 🐛 2 | 🌐 JavaScript | 📅 2016-03-28 - A pure JavaScript implementation of TinkerPop's TinkerGraph in-memory graph database.
+* [tinkergraph-js](https://github.com/jbmusso/tinkergraph-js) ⭐ 72 | 🐛 2 | 🌐 JavaScript | 📅 2016-03-28 - A pure JavaScript implementation of TinkerPop's TinkerGraph in-memory graph database.
 * [Elastic Gremlin](https://github.com/rmagen/elastic-gremlin) ⭐ 70 | 🐛 22 | 🌐 Java | 📅 2015-10-26 - TinkerPop3 implementation on Elasticsearch backend.
 * [DuctileDB](https://github.com/PureSolTechnologies/DuctileDB) ⭐ 15 | 🐛 0 | 🌐 Java | 📅 2018-01-03 - Ductile DB is a graph database based on Hadoop/HBase which provides a vast set of features.
 * [Hadoop (Giraph)](http://tinkerpop.apache.org/docs/current/reference/#giraphgraphcomputer) - OLAP graph processor using Giraph.
@@ -163,4 +163,4 @@ To the extent possible under law, [@mohataher](https://github.com/mohataher) has
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
