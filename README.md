@@ -23,15 +23,15 @@ A curated list of only awesome TinkerPop libraries on Github.
 
 #### <A NAME="tinkerpop3-implementations"></A>Implementations
 
-* [JanusGraph](https://github.com/JanusGraph/janusgraph) ⭐ 5,842 | 🐛 580 | 🌐 Java | 📅 2026-10-04 - JanusGraph: an open-source, distributed graph database <http://janusgraph.org>
-* [TinkerPop3 implementation](https://github.com/apache/tinkerpop) ⭐ 2,147 | 🐛 39 | 🌐 Java | 📅 2026-10-02 - Mirror of Apache TinkerPop.
+* [JanusGraph](https://github.com/JanusGraph/janusgraph) ⭐ 5,843 | 🐛 607 | 🌐 Java | 📅 2026-10-05 - JanusGraph: an open-source, distributed graph database <http://janusgraph.org>
+* [TinkerPop3 implementation](https://github.com/apache/tinkerpop) ⭐ 2,147 | 🐛 39 | 🌐 Java | 📅 2026-10-05 - Mirror of Apache TinkerPop.
 * [blazegraph](https://github.com/blazegraph/database) ⚠️ Archived - TinkerPop3 [implementation](https://github.com/blazegraph/tinkerpop3) ⚠️ Archived for Blaze Graph; a high performance graph database.
 * [JanusGraph for DynamoDB (Amazon)](https://github.com/awslabs/dynamodb-janusgraph-storage-backend) ⚠️ Archived - The Amazon DynamoDB storage backend for JanusGraph.
 * [hgraphdb](https://github.com/rayokota/hgraphdb) ⭐ 263 | 🐛 12 | 🌐 Java | 📅 2026-04-29 - HBase as a TinkerPop Graph Database.
 * [sqlg](https://github.com/pietermartin/sqlg) ⭐ 260 | 🐛 26 | 🌐 HTML | 📅 2026-08-28 - Sqlg is a implementation of TinkerPop3 on a RDBMS.
 * [gremlin-javascript](https://github.com/jbmusso/gremlin-javascript) ⭐ 215 | 🐛 27 | 🌐 JavaScript | 📅 2018-04-21 - JavaScript graph database client for TinkerPop3 Gremlin Server.
 * [Unipop](https://github.com/rmagen/unipop) ⭐ 213 | 🐛 29 | 🌐 Java | 📅 2026-08-02 - OLTP Elasticsearch and JDBC backed graph.
-* [orientdb-gremlin](https://github.com/orientechnologies/orientdb-gremlin) ⭐ 97 | 🐛 43 | 🌐 Java | 📅 2026-09-02 - TinkerPop3 Graph Structure Implementation for OrientDB.
+* [orientdb-gremlin](https://github.com/orientechnologies/orientdb-gremlin) ⭐ 97 | 🐛 43 | 🌐 Java | 📅 2026-10-05 - TinkerPop3 Graph Structure Implementation for OrientDB.
 * [tinkergraph-js](https://github.com/jbmusso/tinkergraph-js) ⭐ 72 | 🐛 2 | 🌐 JavaScript | 📅 2016-03-28 - A pure JavaScript implementation of TinkerPop's TinkerGraph in-memory graph database.
 * [Elastic Gremlin](https://github.com/rmagen/elastic-gremlin) ⭐ 70 | 🐛 22 | 🌐 Java | 📅 2015-10-26 - TinkerPop3 implementation on Elasticsearch backend.
 * [DuctileDB](https://github.com/PureSolTechnologies/DuctileDB) ⭐ 15 | 🐛 0 | 🌐 Java | 📅 2018-01-03 - Ductile DB is a graph database based on Hadoop/HBase which provides a vast set of features.
@@ -163,4 +163,4 @@ To the extent possible under law, [@mohataher](https://github.com/mohataher) has
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
