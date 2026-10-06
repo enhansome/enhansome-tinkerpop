@@ -18,7 +18,7 @@
                 "language": "Java",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-05T11:07:27Z",
-                "open_issues": 607,
+                "open_issues": 609,
                 "owner": "JanusGraph",
                 "repo": "janusgraph",
                 "stars": 5843,
@@ -49,8 +49,8 @@
                 "id": 30449481,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-05T08:11:35Z",
-                "open_issues": 39,
+                "last_commit": "2026-10-05T22:42:38Z",
+                "open_issues": 38,
                 "owner": "apache",
                 "repo": "tinkerpop",
                 "stars": 2147,
@@ -1293,7 +1293,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T20:05:30.597Z",
+    "last_updated": "2026-10-06T10:50:12.221Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of useful libraries for Apache TinkerPop3 and Tinkerpop2",
