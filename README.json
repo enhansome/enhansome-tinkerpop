@@ -21,7 +21,7 @@
                 "open_issues": 590,
                 "owner": "JanusGraph",
                 "repo": "janusgraph",
-                "stars": 5844,
+                "stars": 5847,
                 "topics": [
                   "bigtable",
                   "cassandra",
@@ -49,7 +49,7 @@
                 "id": 30449481,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-09T17:11:46Z",
+                "last_commit": "2026-10-09T20:05:20Z",
                 "open_issues": 43,
                 "owner": "apache",
                 "repo": "tinkerpop",
@@ -1293,7 +1293,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T17:30:27.027Z",
+    "last_updated": "2026-10-10T16:18:57.299Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of useful libraries for Apache TinkerPop3 and Tinkerpop2",
