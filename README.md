@@ -23,7 +23,7 @@ A curated list of only awesome TinkerPop libraries on Github.
 
 #### <A NAME="tinkerpop3-implementations"></A>Implementations
 
-* [JanusGraph](https://github.com/JanusGraph/janusgraph) ⭐ 5,862 | 🐛 578 | 🌐 Java | 📅 2026-10-24 - JanusGraph: an open-source, distributed graph database <http://janusgraph.org>
+* [JanusGraph](https://github.com/JanusGraph/janusgraph) ⭐ 5,864 | 🐛 578 | 🌐 Java | 📅 2026-10-25 - JanusGraph: an open-source, distributed graph database <http://janusgraph.org>
 * [TinkerPop3 implementation](https://github.com/apache/tinkerpop) ⭐ 2,150 | 🐛 31 | 🌐 Java | 📅 2026-10-24 - Mirror of Apache TinkerPop.
 * [blazegraph](https://github.com/blazegraph/database) ⚠️ Archived - TinkerPop3 [implementation](https://github.com/blazegraph/tinkerpop3) ⚠️ Archived for Blaze Graph; a high performance graph database.
 * [JanusGraph for DynamoDB (Amazon)](https://github.com/awslabs/dynamodb-janusgraph-storage-backend) ⚠️ Archived - The Amazon DynamoDB storage backend for JanusGraph.
@@ -163,4 +163,4 @@ To the extent possible under law, [@mohataher](https://github.com/mohataher) has
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
