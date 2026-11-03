@@ -21,7 +21,7 @@
                 "open_issues": 582,
                 "owner": "JanusGraph",
                 "repo": "janusgraph",
-                "stars": 5862,
+                "stars": 5863,
                 "topics": [
                   "bigtable",
                   "cassandra",
@@ -49,8 +49,8 @@
                 "id": 30449481,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-02T20:41:01Z",
-                "open_issues": 35,
+                "last_commit": "2026-11-03T17:44:18Z",
+                "open_issues": 36,
                 "owner": "apache",
                 "repo": "tinkerpop",
                 "stars": 2153,
@@ -151,7 +151,7 @@
                 "id": 21758708,
                 "language": "HTML",
                 "license": "MIT",
-                "last_commit": "2026-10-15T05:37:19Z",
+                "last_commit": "2026-11-03T08:09:31Z",
                 "open_issues": 26,
                 "owner": "pietermartin",
                 "repo": "sqlg",
@@ -205,8 +205,8 @@
                 "id": 43837063,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-02T11:24:18Z",
-                "open_issues": 27,
+                "last_commit": "2026-11-03T09:23:18Z",
+                "open_issues": 26,
                 "owner": "unipop-graph",
                 "repo": "unipop",
                 "stars": 213,
@@ -1293,7 +1293,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T20:51:09.128Z",
+    "last_updated": "2026-11-03T18:33:58.015Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of useful libraries for Apache TinkerPop3 and Tinkerpop2",
@@ -1305,7 +1305,7 @@
       "open_issues": 3,
       "owner": "mohataher",
       "repo": "awesome-tinkerpop",
-      "stars": 191,
+      "stars": 192,
       "topics": [
         "apache-tinkerpop",
         "awesome",
