@@ -49,11 +49,11 @@
                 "id": 30449481,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-06T18:04:33Z",
-                "open_issues": 33,
+                "last_commit": "2026-11-06T23:05:12Z",
+                "open_issues": 35,
                 "owner": "apache",
                 "repo": "tinkerpop",
-                "stars": 2155,
+                "stars": 2156,
                 "topics": [
                   "apache",
                   "graph",
@@ -1293,7 +1293,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T18:13:31.267Z",
+    "last_updated": "2026-11-07T16:56:59.780Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of useful libraries for Apache TinkerPop3 and Tinkerpop2",
