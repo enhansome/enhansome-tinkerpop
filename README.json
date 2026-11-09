@@ -21,7 +21,7 @@
                 "open_issues": 582,
                 "owner": "JanusGraph",
                 "repo": "janusgraph",
-                "stars": 5864,
+                "stars": 5865,
                 "topics": [
                   "bigtable",
                   "cassandra",
@@ -49,11 +49,11 @@
                 "id": 30449481,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-06T23:05:12Z",
-                "open_issues": 37,
+                "last_commit": "2026-11-09T19:22:26Z",
+                "open_issues": 33,
                 "owner": "apache",
                 "repo": "tinkerpop",
-                "stars": 2156,
+                "stars": 2155,
                 "topics": [
                   "apache",
                   "graph",
@@ -232,7 +232,7 @@
                 "id": 37631091,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-02T00:11:35Z",
+                "last_commit": "2026-11-09T16:40:42Z",
                 "open_issues": 44,
                 "owner": "orientechnologies",
                 "repo": "orientdb-gremlin",
@@ -1293,7 +1293,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T17:10:56.447Z",
+    "last_updated": "2026-11-09T21:33:01.631Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of useful libraries for Apache TinkerPop3 and Tinkerpop2",
