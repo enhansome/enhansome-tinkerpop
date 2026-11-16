@@ -23,8 +23,8 @@ A curated list of only awesome TinkerPop libraries on Github.
 
 #### <A NAME="tinkerpop3-implementations"></A>Implementations
 
-* [JanusGraph](https://github.com/JanusGraph/janusgraph) ⭐ 5,866 | 🐛 584 | 🌐 Java | 📅 2026-10-28 - JanusGraph: an open-source, distributed graph database <http://janusgraph.org>
-* [TinkerPop3 implementation](https://github.com/apache/tinkerpop) ⭐ 2,155 | 🐛 20 | 🌐 Java | 📅 2026-11-14 - Mirror of Apache TinkerPop.
+* [JanusGraph](https://github.com/JanusGraph/janusgraph) ⭐ 5,866 | 🐛 585 | 🌐 Java | 📅 2026-10-28 - JanusGraph: an open-source, distributed graph database <http://janusgraph.org>
+* [TinkerPop3 implementation](https://github.com/apache/tinkerpop) ⭐ 2,157 | 🐛 21 | 🌐 Java | 📅 2026-11-16 - Mirror of Apache TinkerPop.
 * [blazegraph](https://github.com/blazegraph/database) ⚠️ Archived - TinkerPop3 [implementation](https://github.com/blazegraph/tinkerpop3) ⚠️ Archived for Blaze Graph; a high performance graph database.
 * [JanusGraph for DynamoDB (Amazon)](https://github.com/awslabs/dynamodb-janusgraph-storage-backend) ⚠️ Archived - The Amazon DynamoDB storage backend for JanusGraph.
 * [hgraphdb](https://github.com/rayokota/hgraphdb) ⭐ 263 | 🐛 12 | 🌐 Java | 📅 2026-04-29 - HBase as a TinkerPop Graph Database.
@@ -83,7 +83,7 @@ A curated list of only awesome TinkerPop libraries on Github.
 
 * [goblin](https://github.com/ZEROFAIL/goblin) ⭐ 90 | 🐛 17 | 🌐 Python | 📅 2018-11-06 - OGM for TinkerPop3 Gremlin Server.
 * [goblin 3.5](https://github.com/davebshow/goblin) ⭐ 90 | 🐛 17 | 🌐 Python | 📅 2018-11-06 - A Python 3.5 rewrite of the TinkerPop 3 OGM Goblin.
-* [aiogremlin](https://github.com/davebshow/aiogremlin) ⭐ 43 | 🐛 6 | 🌐 Python | 📅 2019-12-27 (python) - A Python 3 library based on asyncio and aiohttp that uses websockets to communicate with the Gremlin Server.
+* [aiogremlin](https://github.com/davebshow/aiogremlin) ⭐ 42 | 🐛 6 | 🌐 Python | 📅 2019-12-27 (python) - A Python 3 library based on asyncio and aiohttp that uses websockets to communicate with the Gremlin Server.
 * [Mogwai](https://github.com/platinummonkey/mogwai) ⚠️ Archived - TinkerPop3 Graph Database Library for Python.
 * [gremlinclient](https://github.com/davebshow/gremlinclient) ⭐ 28 | 🐛 3 | 🌐 Python | 📅 2016-06-15 - An asynchronous Python 2/3 client for Gremlin Server that allows for flexible coroutine syntax - Trollius, Tornado, Asyncio.
 * [python-gremlin-rest](https://github.com/windj007/python-gremlin-rest) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2016-12-09 - A REST-based client for Gremlin Server.
@@ -163,4 +163,4 @@ To the extent possible under law, [@mohataher](https://github.com/mohataher) has
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
